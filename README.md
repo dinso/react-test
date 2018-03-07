@@ -1,7 +1,7 @@
 # Coding Challenge
 This is a simple test which aims to demonstrate an ability to set up a Firebase project and present the data in a React app. Familiarity with React.js is assumed, however, no prior knowledge of Firebase is required. Besides completing the task according to the set of instructions below, we are looking for well written code and a demonstration of understanding the best practices around React.
 
-Use of any further dependencies besides React, Firebase and create-react-app is totally optional and up to the developer.
+Use of any further dependencies besides React, Redux, Firebase and create-react-app is totally optional and up to the developer.
 
 ## Instructions
 
